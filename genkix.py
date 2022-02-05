@@ -7,4 +7,8 @@ import subprocess
 import os
 
 generate_key = subprocess.run(["ssh-keygen", "-o"])
+
+print("\nHere is your key:\n")
+print("==================================================================================\n")
 hereIsThekey = os.system("cat ~/.ssh/id_rsa.pub")
+print("==================================================================================\n")
