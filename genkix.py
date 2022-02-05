@@ -5,7 +5,9 @@
 
 import subprocess
 import os
+from logo import logo
 
+logo().banner()
 generate_key = subprocess.run(["ssh-keygen", "-o"])
 
 print("\nHere is your key:\n")
