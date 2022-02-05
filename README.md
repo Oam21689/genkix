@@ -17,6 +17,10 @@ Run the following command to import all necessary files:
 To obtain your SSH-key, enter the following command:
     
     Python3 genkix.py
+    
+# If prompted to an overide
+
+Respond "NO" to display previously used key.
 
 # Press return key to all prompts to keep defaut parameters
 This will be applied until further update.
