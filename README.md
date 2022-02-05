@@ -18,5 +18,5 @@ To obtain your SSH-key, enter the following command:
     
     Python3 genkix.py
 
-# Press return key to all prompt to keep defaut parameters
+# Press return key to all prompts to keep defaut parameters
 This will be applied until further update.
