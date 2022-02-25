@@ -22,5 +22,5 @@ To obtain your SSH-key, enter the following command:
 
 Respond "NO" to display previously used key.
 
-# Press return key to all prompts to keep defaut parameters
+# Press return key to all prompts to keep default parameters
 This will be applied until further update.
